@@ -1,4 +1,4 @@
 package com.company.automationTest;
 
-public class AutomationTests {
+public class automationTests {
 }

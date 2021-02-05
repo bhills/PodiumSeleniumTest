@@ -3,7 +3,7 @@ package com.company;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
 	// write your code here
